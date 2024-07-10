@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597318569119",
+    "project_id": "omegal-e9708",
+    "storage_bucket": "omegal-e9708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597318569119:android:3a07b7b20505ed9c7666aa",
+        "android_client_info": {
+          "package_name": "com.harsha.omegal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHM_1UYrT6dlGC5SLEoGCWj97pDBABp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
